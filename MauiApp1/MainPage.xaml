@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:syncfusion="clr-namespace:Syncfusion.Maui.DataGrid;assembly=Syncfusion.Maui.DataGrid"
+             xmlns:local="clr-namespace:MauiApp1"
+             x:Class="MauiApp1.MainPage">
+
+    <ContentPage.BindingContext>
+        <local:ViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <syncfusion:SfDataGrid x:Name="datagrid" ItemsSource="{Binding Orders}">
+            <syncfusion:SfDataGrid.Columns>
+                <syncfusion:DataGridTextColumn MappingName="CustomerId" HeaderText="Customer ID" HeaderLineBreakMode="CharacterWrap"/>
+                <syncfusion:DataGridTextColumn MappingName="OrderId" HeaderText="Order ID" HeaderLineBreakMode="CharacterWrap"/>
+            </syncfusion:SfDataGrid.Columns>
+        </syncfusion:SfDataGrid>
+    </ContentPage.Content>
+
+</ContentPage>

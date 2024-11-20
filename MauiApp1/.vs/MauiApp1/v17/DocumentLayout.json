@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Samples\\HeaderlinebreakModeSample\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{304A0ABA-41FF-4F3F-B84A-3B73F01E48E5}|MauiApp1.csproj|d:\\samples\\headerlinebreakmodesample\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{304A0ABA-41FF-4F3F-B84A-3B73F01E48E5}|MauiApp1.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A0ABA-41FF-4F3F-B84A-3B73F01E48E5}|MauiApp1.csproj|d:\\samples\\headerlinebreakmodesample\\mauiapp1\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A0ABA-41FF-4F3F-B84A-3B73F01E48E5}|MauiApp1.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A0ABA-41FF-4F3F-B84A-3B73F01E48E5}|MauiApp1.csproj|d:\\samples\\headerlinebreakmodesample\\mauiapp1\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A0ABA-41FF-4F3F-B84A-3B73F01E48E5}|MauiApp1.csproj|solutionrelative:viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\Samples\\HeaderlinebreakModeSample\\MauiApp1\\Model.cs",
+              "RelativeDocumentMoniker": "Model.cs",
+              "ToolTip": "D:\\Samples\\HeaderlinebreakModeSample\\MauiApp1\\Model.cs",
+              "RelativeToolTip": "Model.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:10:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\Samples\\HeaderlinebreakModeSample\\MauiApp1\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel.cs",
+              "ToolTip": "D:\\Samples\\HeaderlinebreakModeSample\\MauiApp1\\ViewModel.cs",
+              "RelativeToolTip": "ViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:10:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Samples\\HeaderlinebreakModeSample\\MauiApp1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\Samples\\HeaderlinebreakModeSample\\MauiApp1\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T08:10:13.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
